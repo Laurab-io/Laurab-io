@@ -7,5 +7,4 @@
 - 💥 I’m currently working at 8x8.
 - 🌱 I work in React, Bulma, RBX, GraphQL and Netlify. I also support the GTM/GA teams.
 - 🤩 Ask me about engineering
-- 📫 How to reach me: io.laurab@gmail.com
 - 🎼 Fun fact: I play the violin, cello, mandolin and guitar, sometimes. 
