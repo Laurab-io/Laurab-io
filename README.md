@@ -5,6 +5,6 @@
 -->
 
 - 💥 I’m currently a software engineer at hims & hers.
-- 🌱 I work in React, TypeScript, GraphQL, and Accessibility. 
+- 🌱 I work in React, TypeScript, and Accessibility. 
 - 🤩 Ask me about engineering
 - 🎼 Fun fact: I play the violin, cello, mandolin, fretless bass and guitar when bribed. 
