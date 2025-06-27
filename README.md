@@ -5,6 +5,6 @@
 -->
 
 - 💥 I’m currently a software engineer at [Hims](https://www.forhims.com/) & [Hers](https://www.forhers.com/)
-- 🌱 I work in React, TypeScript, and Accessibility. 
+- 🌱 I work in React, TypeScript, Next.js, and Accessibility. 
 - 🤩 Ask me about engineering
 - 🎼 Fun fact: I play the violin, cello, mandolin, and fretless bass. Plus the guitar when bribed. 
